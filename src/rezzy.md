@@ -26,7 +26,7 @@ Working on retrieval augmented generation apps for Amazon Ads, an automated trad
 
 ### Specialized in
 
-Python, C++, AWS environments, backend development
+Java, Python, C++, AWS environments, backend development
 
 ### Research interests
 
@@ -43,7 +43,7 @@ Complex Structures of Matter and 2-D Materials group, NCAA Soccer, Rensselaer Ce
 
 #### Amazon Web Services, SDE 2 `2021.12 - present`
 
-Designed, implemented, scaled, and maintained multiple services including an AI-enabled creative moderation service capable of handling 75 TPS and a supply-side bookkeeping service which accounted for over $20M per quarter as a part of the Amazon Ads org and an SSH-based authentication service as a part of the AWS Security team.\
+Designed, implemented, scaled, and maintained multiple services in Java including an AI-enabled creative moderation service capable of handling 75 TPS and a supply-side bookkeeping service which accounted for over $20M per quarter as a part of the Amazon Ads org and an SSH-based authentication service as a part of the AWS Security team.\
 - Led design reviews, security reviews, and developer testing, performed code reviews, and mentored new engineers.\
 - Developed, deployed, and debugged production applications at scale using modern AWS tooling.\
 - Worked with stakeholders and scientists to design a creative image and video scoring algorithm and API which combined features extracted via multiple image recognition and LLM-based models.\
@@ -57,10 +57,3 @@ Maintained core hardware abstraction layer code as a member of the backend Contr
 - Updated simulator code and documentation to C++11 and Doxygen, resp.\
 - Expanded front-end Qiskit simulator interface and transitioned it to Pybind.\
 - Developed an internal API and web-application for tracking experiment specifications and results.\
-
-#### IBM Systems, Co-Op Engineer `2016.2 - 2017.8`
-
-Worked with the Design-Technology Co-Optimization team on IBM's 14nm production rollout and early 7nm development. Designed and implemented VLSI-design-verification and defect-limited-yield modeling tools.\
-- Developed an internal design-verification tool (LBMCS) using Tcl, bash, and SVRF.\
-- Author and presenter of a conference paper and patent on LBMCS.\
-- Analyzed manufacturing defect data using defect-limited yield models.\
